@@ -1,4 +1,4 @@
-Feature branch: First line
+Feature branch: This is a new feature
 I'm learning Git.
 Added HelloWorld.java
 
